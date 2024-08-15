@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi there 👋Contact Me (Wechat)
+
+<img src="wechat.jpeg" alt="logo" height="160" align="left" style="margin: 5px; margin-bottom: 20px;" />
 
 <!--
 **niyunsheng/niyunsheng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
